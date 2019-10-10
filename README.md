@@ -1,4 +1,4 @@
-#3D translation System
+# 3D Translation System
 Includes 3D rotation about an arbitrary axis in 3D space(specified by two 3Dpoints and a rotation angle in degrees), and 3D scaling(specified by one scaling factor used in all three directions). The 3D scenes can be orthographic or obliquely projectede in xy, yz and xz planes.
 
 To compile my project, just type make and it will compile a executable called project2.
