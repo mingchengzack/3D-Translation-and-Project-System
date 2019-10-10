@@ -1,4 +1,5 @@
-Name: Ming Cheng, ID: 913137594, Email: mgcheng@ucdavis.edu
+#3D translation System
+Includes 3D rotation about an arbitrary axis in 3D space(specified by two 3Dpoints and a rotation angle in degrees), and 3D scaling(specified by one scaling factor used in all three directions). The 3D scenes can be orthographic or obliquely projectede in xy, yz and xz planes.
 
 To compile my project, just type make and it will compile a executable called project2.
 My project use a external libraries glm for matrix multiplication and storing information.
